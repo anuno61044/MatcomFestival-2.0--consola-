@@ -1,0 +1,36 @@
+/home/freedo/Documentos/Programing/Proyectos/Battle Cards/MatcomFestival 2.0/MatcomFestival2.0.Visual/bin/Debug/net6.0/MatcomFestival2.0.Visual
+/home/freedo/Documentos/Programing/Proyectos/Battle Cards/MatcomFestival 2.0/MatcomFestival2.0.Visual/bin/Debug/net6.0/MatcomFestival2.0.Visual.deps.json
+/home/freedo/Documentos/Programing/Proyectos/Battle Cards/MatcomFestival 2.0/MatcomFestival2.0.Visual/bin/Debug/net6.0/MatcomFestival2.0.Visual.runtimeconfig.json
+/home/freedo/Documentos/Programing/Proyectos/Battle Cards/MatcomFestival 2.0/MatcomFestival2.0.Visual/bin/Debug/net6.0/MatcomFestival2.0.Visual.dll
+/home/freedo/Documentos/Programing/Proyectos/Battle Cards/MatcomFestival 2.0/MatcomFestival2.0.Visual/bin/Debug/net6.0/ref/MatcomFestival2.0.Visual.dll
+/home/freedo/Documentos/Programing/Proyectos/Battle Cards/MatcomFestival 2.0/MatcomFestival2.0.Visual/bin/Debug/net6.0/MatcomFestival2.0.Visual.pdb
+/home/freedo/Documentos/Programing/Proyectos/Battle Cards/MatcomFestival 2.0/MatcomFestival2.0.Visual/bin/Debug/net6.0/MatcomFestival2.0.Logic.dll
+/home/freedo/Documentos/Programing/Proyectos/Battle Cards/MatcomFestival 2.0/MatcomFestival2.0.Visual/bin/Debug/net6.0/MatcomFestival2.0.Logic.pdb
+/home/freedo/Documentos/Programing/Proyectos/Battle Cards/MatcomFestival 2.0/MatcomFestival2.0.Visual/obj/Debug/net6.0/MatcomFestival2.0.Visual.csproj.AssemblyReference.cache
+/home/freedo/Documentos/Programing/Proyectos/Battle Cards/MatcomFestival 2.0/MatcomFestival2.0.Visual/obj/Debug/net6.0/MatcomFestival2.0.Visual.GeneratedMSBuildEditorConfig.editorconfig
+/home/freedo/Documentos/Programing/Proyectos/Battle Cards/MatcomFestival 2.0/MatcomFestival2.0.Visual/obj/Debug/net6.0/MatcomFestival2.0.Visual.AssemblyInfoInputs.cache
+/home/freedo/Documentos/Programing/Proyectos/Battle Cards/MatcomFestival 2.0/MatcomFestival2.0.Visual/obj/Debug/net6.0/MatcomFestival2.0.Visual.AssemblyInfo.cs
+/home/freedo/Documentos/Programing/Proyectos/Battle Cards/MatcomFestival 2.0/MatcomFestival2.0.Visual/obj/Debug/net6.0/MatcomFestival2.0.Visual.csproj.CoreCompileInputs.cache
+/home/freedo/Documentos/Programing/Proyectos/Battle Cards/MatcomFestival 2.0/MatcomFestival2.0.Visual/obj/Debug/net6.0/MatcomFestival2.0.Visual.csproj.CopyComplete
+/home/freedo/Documentos/Programing/Proyectos/Battle Cards/MatcomFestival 2.0/MatcomFestival2.0.Visual/obj/Debug/net6.0/MatcomFestival2.0.Visual.dll
+/home/freedo/Documentos/Programing/Proyectos/Battle Cards/MatcomFestival 2.0/MatcomFestival2.0.Visual/obj/Debug/net6.0/ref/MatcomFestival2.0.Visual.dll
+/home/freedo/Documentos/Programing/Proyectos/Battle Cards/MatcomFestival 2.0/MatcomFestival2.0.Visual/obj/Debug/net6.0/MatcomFestival2.0.Visual.pdb
+/home/freedo/Documentos/Programing/Proyectos/Battle Cards/MatcomFestival 2.0/MatcomFestival2.0.Visual/obj/Debug/net6.0/MatcomFestival2.0.Visual.genruntimeconfig.cache
+/home/freedo/Documentos/Programing/Proyectos/Battle Cards/MatcomFestival 2.0 (consola)/MatcomFestival2.0.Visual/obj/Debug/net6.0/MatcomFestival2.0.Visual.csproj.AssemblyReference.cache
+/home/freedo/Documentos/Programing/Proyectos/Battle Cards/MatcomFestival 2.0 (consola)/MatcomFestival2.0.Visual/obj/Debug/net6.0/MatcomFestival2.0.Visual.GeneratedMSBuildEditorConfig.editorconfig
+/home/freedo/Documentos/Programing/Proyectos/Battle Cards/MatcomFestival 2.0 (consola)/MatcomFestival2.0.Visual/obj/Debug/net6.0/MatcomFestival2.0.Visual.AssemblyInfoInputs.cache
+/home/freedo/Documentos/Programing/Proyectos/Battle Cards/MatcomFestival 2.0 (consola)/MatcomFestival2.0.Visual/obj/Debug/net6.0/MatcomFestival2.0.Visual.AssemblyInfo.cs
+/home/freedo/Documentos/Programing/Proyectos/Battle Cards/MatcomFestival 2.0 (consola)/MatcomFestival2.0.Visual/obj/Debug/net6.0/MatcomFestival2.0.Visual.csproj.CoreCompileInputs.cache
+/home/freedo/Documentos/Programing/Proyectos/Battle Cards/MatcomFestival 2.0 (consola)/MatcomFestival2.0.Visual/obj/Debug/net6.0/MatcomFestival2.0.Visual.dll
+/home/freedo/Documentos/Programing/Proyectos/Battle Cards/MatcomFestival 2.0 (consola)/MatcomFestival2.0.Visual/obj/Debug/net6.0/ref/MatcomFestival2.0.Visual.dll
+/home/freedo/Documentos/Programing/Proyectos/Battle Cards/MatcomFestival 2.0 (consola)/MatcomFestival2.0.Visual/obj/Debug/net6.0/MatcomFestival2.0.Visual.pdb
+/home/freedo/Documentos/Programing/Proyectos/Battle Cards/MatcomFestival 2.0 (consola)/MatcomFestival2.0.Visual/bin/Debug/net6.0/MatcomFestival2.0.Visual
+/home/freedo/Documentos/Programing/Proyectos/Battle Cards/MatcomFestival 2.0 (consola)/MatcomFestival2.0.Visual/bin/Debug/net6.0/MatcomFestival2.0.Visual.deps.json
+/home/freedo/Documentos/Programing/Proyectos/Battle Cards/MatcomFestival 2.0 (consola)/MatcomFestival2.0.Visual/bin/Debug/net6.0/MatcomFestival2.0.Visual.runtimeconfig.json
+/home/freedo/Documentos/Programing/Proyectos/Battle Cards/MatcomFestival 2.0 (consola)/MatcomFestival2.0.Visual/bin/Debug/net6.0/MatcomFestival2.0.Visual.dll
+/home/freedo/Documentos/Programing/Proyectos/Battle Cards/MatcomFestival 2.0 (consola)/MatcomFestival2.0.Visual/bin/Debug/net6.0/ref/MatcomFestival2.0.Visual.dll
+/home/freedo/Documentos/Programing/Proyectos/Battle Cards/MatcomFestival 2.0 (consola)/MatcomFestival2.0.Visual/bin/Debug/net6.0/MatcomFestival2.0.Visual.pdb
+/home/freedo/Documentos/Programing/Proyectos/Battle Cards/MatcomFestival 2.0 (consola)/MatcomFestival2.0.Visual/bin/Debug/net6.0/MatcomFestival2.0.Logic.dll
+/home/freedo/Documentos/Programing/Proyectos/Battle Cards/MatcomFestival 2.0 (consola)/MatcomFestival2.0.Visual/bin/Debug/net6.0/MatcomFestival2.0.Logic.pdb
+/home/freedo/Documentos/Programing/Proyectos/Battle Cards/MatcomFestival 2.0 (consola)/MatcomFestival2.0.Visual/obj/Debug/net6.0/MatcomFestival2.0.Visual.csproj.CopyComplete
+/home/freedo/Documentos/Programing/Proyectos/Battle Cards/MatcomFestival 2.0 (consola)/MatcomFestival2.0.Visual/obj/Debug/net6.0/MatcomFestival2.0.Visual.genruntimeconfig.cache

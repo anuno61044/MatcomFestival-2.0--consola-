@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatcomFestival2.0.Logic", "MatcomFestival2.0.Logic\MatcomFestival2.0.Logic.csproj", "{02A1C5BC-76C8-46F4-B8C6-6C8A118C325D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatcomFestival2.0.Visual", "MatcomFestival2.0.Visual\MatcomFestival2.0.Visual.csproj", "{71021C68-391C-4F63-91B0-D426D07A6365}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02A1C5BC-76C8-46F4-B8C6-6C8A118C325D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02A1C5BC-76C8-46F4-B8C6-6C8A118C325D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02A1C5BC-76C8-46F4-B8C6-6C8A118C325D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02A1C5BC-76C8-46F4-B8C6-6C8A118C325D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71021C68-391C-4F63-91B0-D426D07A6365}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71021C68-391C-4F63-91B0-D426D07A6365}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71021C68-391C-4F63-91B0-D426D07A6365}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71021C68-391C-4F63-91B0-D426D07A6365}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
